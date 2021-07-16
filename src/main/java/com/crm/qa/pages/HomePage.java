@@ -7,6 +7,8 @@ import org.openqa.selenium.support.PageFactory;
 
 import com.crm.qa.base.TestBase;
 
+import io.qameta.allure.Step;
+
 public class HomePage extends TestBase{
 	
 	//Page Factory ---- Object Repository
@@ -24,6 +26,7 @@ public class HomePage extends TestBase{
 			PageFactory.initElements(driver, this);
 		}
 		
+		@Step("Getting Home Page title")
 		// Actions
 		public String validateLoginPageTitle()
 		{

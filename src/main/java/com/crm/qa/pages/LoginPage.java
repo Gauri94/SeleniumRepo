@@ -6,6 +6,8 @@ import org.openqa.selenium.support.PageFactory;
 
 import com.crm.qa.base.TestBase;
 
+import io.qameta.allure.Step;
+
 public class LoginPage extends TestBase{
 
 	//Page Factory ---- Object Repository
@@ -24,6 +26,7 @@ public class LoginPage extends TestBase{
 		PageFactory.initElements(driver, this);
 	}
 	
+	@Step("Login with username: {0} and password {1} step")
 	public CogmentoHomePage login(String userName, String password)
 	{
 		emailField.sendKeys(userName);

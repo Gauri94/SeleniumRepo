@@ -1,0 +1,151 @@
+2021-07-16 11:49:47 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2021-07-16 11:49:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2021-07-16 11:49:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-07-16 11:49:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-07-16 11:49:47 DEBUG cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/gourisoneja/.m2/repository/com/relevantcodes/extentreports/2.40.2/extentreports-2.40.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-07-16 11:49:48 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2021-07-16 11:49:48 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2021-07-16 11:49:48 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-07-16 11:49:48 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-07-16 11:49:48 DEBUG cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/gourisoneja/.m2/repository/com/relevantcodes/extentreports/2.40.2/extentreports-2.40.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-07-16 12:05:21 INFO  TestBase:59 - Launching the browser
+2021-07-16 12:05:21 INFO  TestBase:69 - Entering the application URL
+2021-07-16 12:05:36 INFO  TestBase:59 - Launching the browser
+2021-07-16 12:05:36 INFO  TestBase:69 - Entering the application URL
+2021-07-16 12:05:50 INFO  TestBase:59 - Launching the browser
+2021-07-16 12:05:50 INFO  TestBase:69 - Entering the application URL
+2021-07-16 12:06:10 INFO  TestBase:59 - Launching the browser
+2021-07-16 12:06:10 INFO  TestBase:69 - Entering the application URL
+2021-07-16 12:06:10 DEBUG TestBase:70 - This is just a debug message
+2021-07-16 12:06:10 WARN  TestBase:71 - This is just a warning
+2021-07-16 12:06:10 FATAL TestBase:72 - This is a fatal message
+2021-07-16 12:06:24 INFO  TestBase:59 - Launching the browser
+2021-07-16 12:06:25 INFO  TestBase:69 - Entering the application URL
+2021-07-16 12:06:25 DEBUG TestBase:70 - This is just a debug message
+2021-07-16 12:06:25 WARN  TestBase:71 - This is just a warning
+2021-07-16 12:06:25 FATAL TestBase:72 - This is a fatal message
+2021-07-16 12:06:39 INFO  TestBase:59 - Launching the browser
+2021-07-16 12:06:39 INFO  TestBase:69 - Entering the application URL
+2021-07-16 12:06:39 DEBUG TestBase:70 - This is just a debug message
+2021-07-16 12:06:39 WARN  TestBase:71 - This is just a warning
+2021-07-16 12:06:39 FATAL TestBase:72 - This is a fatal message
+2021-07-16 20:08:55 INFO  TestBase:59 - Launching the browser
+2021-07-16 20:08:55 INFO  TestBase:69 - Entering the application URL
+2021-07-16 20:08:55 DEBUG TestBase:70 - This is just a debug message
+2021-07-16 20:08:55 WARN  TestBase:71 - This is just a warning
+2021-07-16 20:08:55 FATAL TestBase:72 - This is a fatal message
+2021-07-16 20:09:02 INFO  TestBase:59 - Launching the browser
+2021-07-16 20:09:02 INFO  TestBase:69 - Entering the application URL
+2021-07-16 20:09:02 DEBUG TestBase:70 - This is just a debug message
+2021-07-16 20:09:02 WARN  TestBase:71 - This is just a warning
+2021-07-16 20:09:02 FATAL TestBase:72 - This is a fatal message
+2021-07-16 20:09:09 INFO  TestBase:59 - Launching the browser
+2021-07-16 20:09:09 INFO  TestBase:69 - Entering the application URL
+2021-07-16 20:09:09 DEBUG TestBase:70 - This is just a debug message
+2021-07-16 20:09:09 WARN  TestBase:71 - This is just a warning
+2021-07-16 20:09:09 FATAL TestBase:72 - This is a fatal message
+2021-07-16 20:09:17 INFO  TestBase:59 - Launching the browser
+2021-07-16 20:09:17 INFO  TestBase:69 - Entering the application URL
+2021-07-16 20:09:17 DEBUG TestBase:70 - This is just a debug message
+2021-07-16 20:09:17 WARN  TestBase:71 - This is just a warning
+2021-07-16 20:09:17 FATAL TestBase:72 - This is a fatal message
+2021-07-16 20:09:29 INFO  TestBase:59 - Launching the browser
+2021-07-16 20:09:29 INFO  TestBase:69 - Entering the application URL
+2021-07-16 20:09:29 DEBUG TestBase:70 - This is just a debug message
+2021-07-16 20:09:29 WARN  TestBase:71 - This is just a warning
+2021-07-16 20:09:29 FATAL TestBase:72 - This is a fatal message
+2021-07-16 20:09:46 INFO  TestBase:59 - Launching the browser
+2021-07-16 20:09:46 INFO  TestBase:69 - Entering the application URL
+2021-07-16 20:09:46 DEBUG TestBase:70 - This is just a debug message
+2021-07-16 20:09:46 WARN  TestBase:71 - This is just a warning
+2021-07-16 20:09:46 FATAL TestBase:72 - This is a fatal message
+2021-07-16 20:10:01 INFO  TestBase:59 - Launching the browser
+2021-07-16 20:10:01 INFO  TestBase:69 - Entering the application URL
+2021-07-16 20:10:01 DEBUG TestBase:70 - This is just a debug message
+2021-07-16 20:10:01 WARN  TestBase:71 - This is just a warning
+2021-07-16 20:10:01 FATAL TestBase:72 - This is a fatal message
+2021-07-16 20:10:21 INFO  TestBase:59 - Launching the browser
+2021-07-16 20:10:21 INFO  TestBase:69 - Entering the application URL
+2021-07-16 20:10:21 DEBUG TestBase:70 - This is just a debug message
+2021-07-16 20:10:21 WARN  TestBase:71 - This is just a warning
+2021-07-16 20:10:21 FATAL TestBase:72 - This is a fatal message
+2021-07-16 20:10:44 INFO  TestBase:59 - Launching the browser
+2021-07-16 20:10:44 INFO  TestBase:69 - Entering the application URL
+2021-07-16 20:10:44 DEBUG TestBase:70 - This is just a debug message
+2021-07-16 20:10:44 WARN  TestBase:71 - This is just a warning
+2021-07-16 20:10:44 FATAL TestBase:72 - This is a fatal message
+2021-07-16 20:11:08 INFO  TestBase:59 - Launching the browser
+2021-07-16 20:11:08 INFO  TestBase:69 - Entering the application URL
+2021-07-16 20:11:08 DEBUG TestBase:70 - This is just a debug message
+2021-07-16 20:11:08 WARN  TestBase:71 - This is just a warning
+2021-07-16 20:11:08 FATAL TestBase:72 - This is a fatal message
+2021-07-16 22:11:44 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2021-07-16 22:11:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2021-07-16 22:11:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-07-16 22:11:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-07-16 22:11:44 DEBUG cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/gourisoneja/.m2/repository/com/relevantcodes/extentreports/2.40.2/extentreports-2.40.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-07-16 22:11:44 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2021-07-16 22:11:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2021-07-16 22:11:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-07-16 22:11:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-07-16 22:11:44 DEBUG cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/gourisoneja/.m2/repository/com/relevantcodes/extentreports/2.40.2/extentreports-2.40.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-07-16 22:48:46 INFO  TestBase:65 - Launching the browser
+2021-07-16 22:48:46 INFO  TestBase:75 - Entering the application URL
+2021-07-16 22:48:46 DEBUG TestBase:76 - This is just a debug message
+2021-07-16 22:48:46 WARN  TestBase:77 - This is just a warning
+2021-07-16 22:48:46 FATAL TestBase:78 - This is a fatal message
+2021-07-16 22:48:54 INFO  TestBase:65 - Launching the browser
+2021-07-16 22:48:54 INFO  TestBase:75 - Entering the application URL
+2021-07-16 22:48:54 DEBUG TestBase:76 - This is just a debug message
+2021-07-16 22:48:54 WARN  TestBase:77 - This is just a warning
+2021-07-16 22:48:54 FATAL TestBase:78 - This is a fatal message
+2021-07-16 22:49:01 INFO  TestBase:65 - Launching the browser
+2021-07-16 22:49:01 INFO  TestBase:75 - Entering the application URL
+2021-07-16 22:49:01 DEBUG TestBase:76 - This is just a debug message
+2021-07-16 22:49:01 WARN  TestBase:77 - This is just a warning
+2021-07-16 22:49:01 FATAL TestBase:78 - This is a fatal message
+2021-07-16 22:49:10 INFO  TestBase:65 - Launching the browser
+2021-07-16 22:49:10 INFO  TestBase:75 - Entering the application URL
+2021-07-16 22:49:10 DEBUG TestBase:76 - This is just a debug message
+2021-07-16 22:49:10 WARN  TestBase:77 - This is just a warning
+2021-07-16 22:49:10 FATAL TestBase:78 - This is a fatal message
+2021-07-16 22:49:22 INFO  TestBase:65 - Launching the browser
+2021-07-16 22:49:23 INFO  TestBase:75 - Entering the application URL
+2021-07-16 22:49:23 DEBUG TestBase:76 - This is just a debug message
+2021-07-16 22:49:23 WARN  TestBase:77 - This is just a warning
+2021-07-16 22:49:23 FATAL TestBase:78 - This is a fatal message
+2021-07-16 22:49:38 INFO  TestBase:65 - Launching the browser
+2021-07-16 22:49:38 INFO  TestBase:75 - Entering the application URL
+2021-07-16 22:49:38 DEBUG TestBase:76 - This is just a debug message
+2021-07-16 22:49:38 WARN  TestBase:77 - This is just a warning
+2021-07-16 22:49:38 FATAL TestBase:78 - This is a fatal message
+2021-07-16 22:49:52 INFO  TestBase:65 - Launching the browser
+2021-07-16 22:49:53 INFO  TestBase:75 - Entering the application URL
+2021-07-16 22:49:53 DEBUG TestBase:76 - This is just a debug message
+2021-07-16 22:49:53 WARN  TestBase:77 - This is just a warning
+2021-07-16 22:49:53 FATAL TestBase:78 - This is a fatal message
+2021-07-16 22:50:24 INFO  TestBase:65 - Launching the browser
+2021-07-16 22:50:24 INFO  TestBase:75 - Entering the application URL
+2021-07-16 22:50:24 DEBUG TestBase:76 - This is just a debug message
+2021-07-16 22:50:24 WARN  TestBase:77 - This is just a warning
+2021-07-16 22:50:24 FATAL TestBase:78 - This is a fatal message
+2021-07-16 22:50:45 INFO  TestBase:65 - Launching the browser
+2021-07-16 22:50:45 INFO  TestBase:75 - Entering the application URL
+2021-07-16 22:50:45 DEBUG TestBase:76 - This is just a debug message
+2021-07-16 22:50:45 WARN  TestBase:77 - This is just a warning
+2021-07-16 22:50:45 FATAL TestBase:78 - This is a fatal message
+2021-07-16 22:51:15 INFO  TestBase:65 - Launching the browser
+2021-07-16 22:51:15 INFO  TestBase:75 - Entering the application URL
+2021-07-16 22:51:15 DEBUG TestBase:76 - This is just a debug message
+2021-07-16 22:51:15 WARN  TestBase:77 - This is just a warning
+2021-07-16 22:51:15 FATAL TestBase:78 - This is a fatal message
+2021-07-16 22:51:36 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2021-07-16 22:51:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2021-07-16 22:51:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-07-16 22:51:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-07-16 22:51:36 DEBUG cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/gourisoneja/.m2/repository/com/relevantcodes/extentreports/2.40.2/extentreports-2.40.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-07-16 22:51:36 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2021-07-16 22:51:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2021-07-16 22:51:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-07-16 22:51:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-07-16 22:51:36 DEBUG cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/Users/gourisoneja/.m2/repository/com/relevantcodes/extentreports/2.40.2/extentreports-2.40.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

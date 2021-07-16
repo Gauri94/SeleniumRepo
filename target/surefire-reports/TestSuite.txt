@@ -1,4 +1,30 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 182.049 s - in TestSuite
+Tests run: 10, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 174.464 s <<< FAILURE! - in TestSuite
+validateCreateNewContact(com.crm.qa.testcases.ContactsPageTest)  Time elapsed: 12.263 s  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name = 'first_name']"}
+  (Session info: chrome=91.0.4472.114)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'C02DD3ZUMD6M', ip: 'fe80:0:0:0:1c3a:5cfe:7ae4:1677%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.7', java.version: '1.8.0_271'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.114, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: /var/folders/3k/k0dqsdvs737...}, goog:chromeOptions: {debuggerAddress: localhost:51940}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 190ce8d547af645dcc3c7cdd78b3a72a
+*** Element info: {Using=xpath, value=//input[@name = 'first_name']}
+	at com.crm.qa.testcases.ContactsPageTest.validateCreateNewContact(ContactsPageTest.java:77)
+
+validateCreateNewContact(com.crm.qa.testcases.ContactsPageTest)  Time elapsed: 13.107 s  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name = 'first_name']"}
+  (Session info: chrome=91.0.4472.114)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'C02DD3ZUMD6M', ip: 'fe80:0:0:0:1c3a:5cfe:7ae4:1677%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.7', java.version: '1.8.0_271'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.114, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: /var/folders/3k/k0dqsdvs737...}, goog:chromeOptions: {debuggerAddress: localhost:52037}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 08e20d5d5e453185f7f024ac20fc4e18
+*** Element info: {Using=xpath, value=//input[@name = 'first_name']}
+	at com.crm.qa.testcases.ContactsPageTest.validateCreateNewContact(ContactsPageTest.java:77)
+
